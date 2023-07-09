@@ -7,6 +7,7 @@
 I am a CS major student with interest of developing scalable backend tools and APIs using Python, Express JS, and PHP
 
 ## Projects
+- [Online Voting System](https://github.com/Chris-code240/online_voting_system)
 - [Twitter Clone](https://github.com/Chris-code240/twitter_clone)
 - [Trivia Game](https://github.com/Chris-code240/myTrivia)
 
