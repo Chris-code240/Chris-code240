@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a CS major student with interest of developing scalable backend tools and APIs using Python, Express JS, and PHP
+I am a CS major student with interest of developing scalable backend tools and APIs using Django, Flask, Express JS, and PHP
 
 ## Projects
 - [Social Media Analysis Dashboard](https://github.com/Chris-code240/Dashboard)
