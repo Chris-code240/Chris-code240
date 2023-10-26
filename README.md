@@ -7,6 +7,7 @@
 I am a CS major student with interest of developing scalable backend tools and APIs using Django, Flask, Express JS, and PHP
 
 ## Projects
+- [AlgoHub](https://github.com/Chris-code240/algohub)
 - [Social Media Analysis Dashboard](https://github.com/Chris-code240/Dashboard)
 - [Online Voting System](https://github.com/Chris-code240/online_voting_system)
 - [Twitter Clone](https://github.com/Chris-code240/twitter_clone)
@@ -16,7 +17,7 @@ I am a CS major student with interest of developing scalable backend tools and A
 
 
 - Programming Languages: [Python, PHP, Vanilla JavaScript]
-- Frameworks: [Flask, Express JS, Tailwind CSS]
+- Frameworks: [Django, Flask, Express JS, Tailwind CSS]
 - Tools: [Git]
 
 
