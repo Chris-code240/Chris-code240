@@ -1,14 +1,11 @@
 # Christian Duah Marfo
 
-[Backend Developer (Python)]
-
 ## About Me
 
-I am a CS major student with interest of developing scalable backend tools and APIs using Django, Flask, Express JS, and PHP
+I am a CS major student with interest of developing scalable and robust applications.
 
 ## Projects
-- [AlgoHub](https://github.com/Chris-code240/algohub)
-- [Social Media Analysis Dashboard](https://github.com/Chris-code240/Dashboard)
+- [Social Media Analysis Dashboard _in development_](https://github.com/Chris-code240/Dashboard)
 - [Online Voting System](https://github.com/Chris-code240/online_voting_system)
 - [Twitter Clone](https://github.com/Chris-code240/twitter_clone)
 - [Trivia Game](https://github.com/Chris-code240/myTrivia)
@@ -16,9 +13,9 @@ I am a CS major student with interest of developing scalable backend tools and A
 ## Skills
 
 
-- Programming Languages: [Python, PHP, Vanilla JavaScript]
-- Frameworks: [Django, Flask, Express JS, Tailwind CSS]
-- Tools: [Git]
+- Programming Languages: [Python, PHP, JavaScript]
+- Frameworks: [Django, Flask, Express JS, React, Tailwind CSS]
+- Tools: [Git, Figma]
 
 
 ## Connect with Me
